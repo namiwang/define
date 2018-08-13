@@ -1,0 +1,12 @@
+[package]
+name = "define"
+version = "0.1.0"
+authors = ["Nami.W <namiheike@gmail.com>"]
+
+[dependencies]
+
+clap = "2.32.0"
+reqwest = "0.8.7"
+# select = "0.4.2"
+scraper = "0.7.0"
+
